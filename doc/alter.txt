@@ -1,0 +1,6 @@
+*alter.txt*  A vim plugin to quickly switch between your test and code
+
+Author: Nikola Jichev <https://github.com/njichev>
+License: Same terms as Vim itself (see |license|)
+
+TODO: Write docs
