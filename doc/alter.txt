@@ -4,3 +4,5 @@ Author: Nikola Jichev <https://github.com/njichev>
 License: Same terms as Vim itself (see |license|)
 
 TODO: Write docs
+
+Inspired by Gary Bernhardt's vimrc. (a.k.a. all credit goes to him)
